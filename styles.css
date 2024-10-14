@@ -9,9 +9,9 @@ h1{
 }
 .secondDiv{
     background-color: brown;
-    align-items: center;
+    /* align-items: center;
     justify-content: center;
-    display: flex;
+    display: flex; */
 }
 button{
     margin: 5px;
